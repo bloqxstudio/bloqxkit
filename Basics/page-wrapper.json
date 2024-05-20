@@ -1,0 +1,28 @@
+{
+    "type": "elementor",
+    "siteurl": "https://bloqxkit.com/",
+    "elements": [
+        {
+            "id": "page-wrapper",
+            "elType": "container",
+            "settings": {
+                "css_classes": "page-wrapper",
+                "padding_tablet": {
+                    "unit": "rem",
+                    "top": 1,
+                    "right": 1,
+                    "bottom": 1,
+                    "left": 1
+                },
+                "padding_mobile": {
+                    "unit": "rem",
+                    "top": 1,
+                    "right": 1,
+                    "bottom": 1,
+                    "left": 1
+                }
+            },
+            "elements": []
+        }
+    ]
+}
