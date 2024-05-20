@@ -1,0 +1,15 @@
+{
+    "type": "elementor",
+    "siteurl": "https://bloqxkit.com/",
+    "elements": [
+        {
+            "id": "component-title",
+            "elType": "container",
+            "settings": {
+                "css_id": "component-title",
+                "css_classes": "component"
+            },
+            "elements": []
+        }
+    ]
+}
