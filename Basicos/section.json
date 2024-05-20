@@ -1,0 +1,21 @@
+{
+    "type": "elementor",
+    "siteurl": "https://bloqxkit.com/",
+    "elements": [
+        {
+            "id": "section-hero",
+            "elType": "container",
+            "settings": {
+                "css_classes": "section-hero",
+                "padding": {
+                    "unit": "rem",
+                    "top": 4,
+                    "right": 0,
+                    "bottom": 4,
+                    "left": 0
+                }
+            },
+            "elements": []
+        }
+    ]
+}
